@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-(주) 프론트하우스 입니다.
+(주) 이스트포인트 입니다.

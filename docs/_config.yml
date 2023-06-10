@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: (주) 프론트하우스
+title: (주) 이스트포인트
 # email: fronthousekorea@gmail.com
 # description: >- # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
@@ -26,7 +26,7 @@ title: (주) 프론트하우스
 #   Google search results) and in your feed.xml site description.
 description: |
   Copyright © 2023 Fronthouse Co., Ltd. All rights reserved.
-  상호명: 주식회사 프론트하우스 
+  상호명: 주식회사 이스트포인트 
   사업자번호: ***-**-***** 
   통신판매업신고번호: ****-****-***** 
   주소: 서울특별시 성북구 성북로 7, 나폴레옹과자점 2층 
